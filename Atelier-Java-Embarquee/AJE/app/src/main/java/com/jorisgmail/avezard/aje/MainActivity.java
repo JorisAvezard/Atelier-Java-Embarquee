@@ -17,10 +17,8 @@ public class MainActivity extends AppCompatActivity {
         serveur_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //Créér un intent et lancer l'activité serveur
-                /*Intent intent = new Intent(MainActivity.this, NewActivity.class);
-                startActivity(intent);
-                 */
+                Intent i = new Intent(MainActivity.this, Server.class);
+                startActivity(i);
             }
         });
 
