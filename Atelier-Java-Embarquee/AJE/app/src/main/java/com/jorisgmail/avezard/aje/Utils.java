@@ -1,4 +1,4 @@
-package phcar.aje;
+package com.jorisgmail.avezard.aje;
 
 /**
  * Created by SONU on 29/10/15.
@@ -6,7 +6,7 @@ package phcar.aje;
 public class Utils {
 
     //String Values to be Used in App
-    public static final String downloadDirectory = "AJE Downloaded Videos";
-    public static final String mainUrl = "http://androhub.com/demo/";
-    public static final String downloadVideoUrl = "http://androhub.com/demo/demo.mp4";
+    public static final String downloadDirectory = "AJE03";
+    public static final String mainUrl = "https://www.quirksmode.org/html5/videos/";
+    public static final String downloadVideoUrl = "https://www.quirksmode.org/html5/videos/big_buck_bunny.mp4";
 }

@@ -1,4 +1,4 @@
-package phcar.aje;
+package com.jorisgmail.avezard.aje;
 
 import android.content.Context;
 import android.os.AsyncTask;
