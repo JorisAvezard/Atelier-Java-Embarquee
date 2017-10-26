@@ -15,7 +15,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by SONU on 29/10/15.
+ * Created by Mallaurie on 25/10/2017.
  */
 public class DownloadTask {
 

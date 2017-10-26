@@ -2,6 +2,9 @@ package com.jorisgmail.avezard.aje;
 
 import android.os.Environment;
 
+/**
+ * Created by Mallaurie on 25/10/2017.
+ */
 public class CheckForSDCard {
     //Check If SD Card is present or not method
     public boolean isSDCardPresent() {

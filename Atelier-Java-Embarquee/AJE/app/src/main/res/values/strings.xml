@@ -3,6 +3,8 @@
     <string name="description_text">CHOISISSEZ CLIENT OU SERVEUR</string>
     <string name="serveur_text">SERVEUR</string>
     <string name="client_text">CLIENT</string>
+    <string name="device_text">LISTE DES DEVICES</string>
+    <string name="device_text_2">SCAN DES DEVICES</string>
 
     <string name="download_video">Download Video</string>
     <string name="openFolder">Open Downloaded Folder</string>
@@ -10,5 +12,4 @@
     <string name="downloadCompleted">Download Completed…</string>
     <string name="downloadFailed">Download Failed…</string>
     <string name="downloadAgain">Download Again</string>
-
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="344dp"
     android:layout_height="495dp"
-    tools:context="com.jorisgmail.avezard.aje.MainActivity"
+    tools:context="com.jorisgmail.avezard.aje.BluetoothConnectionActivity"
     android:orientation="vertical"
     tools:layout_editor_absoluteX="8dp"
     tools:layout_editor_absoluteY="8dp">
